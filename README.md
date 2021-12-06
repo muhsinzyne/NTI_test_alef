@@ -73,7 +73,7 @@ For running the flutter application in development mode, you should need any of 
 Android Studio or VS Code 
 
 
-Clone this repo or use the project zip file
+Clone this repo or use the project zip file and navigate to the project location.  run
 
  ```bash
   flutter packages get
