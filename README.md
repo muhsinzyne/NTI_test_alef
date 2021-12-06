@@ -85,3 +85,37 @@ Run this application in your desired virtual or physical devices
  ```bash
   flutter run 
 ```
+
+## Screenshots
+
+
+![Simulator Screen Shot - iPhone 13 - 2021-12-06 at 22 10 28](https://user-images.githubusercontent.com/24736242/144907382-14a35c10-3e4d-4ee0-9ab5-4aeb64b60679.png)
+![Simulator Screen Shot - iPhone 13 - 2021-12-06 at 22 10 29](https://user-images.githubusercontent.com/24736242/144907455-cda69e38-ac82-48cc-9d41-5b32fdbe804a.png)
+
+
+
+
+## Tech Stack
+
+**Client:** Flutter, Dart
+
+
+
+
+## Support
+
+For support, email muhsin.3009@gmail.com
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/muhsinzyne/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhsinzyne)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muhsinzyne)
+
+
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
