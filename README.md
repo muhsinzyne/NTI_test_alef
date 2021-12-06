@@ -7,7 +7,8 @@
 
 ## Installation
 
-Install flutter as the per the flutter official documentation for your mechine 
+Install flutter as per the flutter official documentation for your machine
+
 
 https://docs.flutter.dev/get-started/install
 
